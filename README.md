@@ -1,4 +1,4 @@
-# Search Engine with NLP
+# AI Search Engine with NLP
 
 Building a custom search engine that’s capable of quickly and accurately sourcing documents from a document database. This search engine improve the ability to handle future pandemics, with the capability to aggregate and search unstructured text data from records of earlier outbreaks. 
 
